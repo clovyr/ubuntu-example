@@ -15,9 +15,9 @@ custom environments.
 
 ## Customizing your installation
 
-1. Get latest packages:<br/>
+1. Get latest packages:  
 `apt update`
-2. Installing dependencies:<br/>
+2. Installing dependencies:  
 `apt install build-essential mysql-server`
 
 ## Documentation
